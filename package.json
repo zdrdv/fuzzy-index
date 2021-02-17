@@ -1,0 +1,17 @@
+{
+  "name": "ngram-index",
+  "version": "1.0.0",
+  "description": "ngram index built on top of redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.19.4",
+    "lodash": "^4.17.20",
+    "natural": "^2.4.5",
+    "xxhashjs": "^0.2.2"
+  }
+}
